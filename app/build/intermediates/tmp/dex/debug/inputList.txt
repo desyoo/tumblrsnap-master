@@ -1,0 +1,9 @@
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/classes/debug
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-utils-33abea767e5628916c9f64fb1e280c85aa47a164.jar
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-android-view-helpers-0.1.0-9de26c263a61948c1a3d5c1f3e1206e3565985a1.jar
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.2.3-19d204332234dee0cd1b4fe91bf3be63becb8268.jar
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-ccc9df34c57e9655c7c9dee0bccfd31a9bd891a3.jar
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-b4efb30cd7c54bdc15d9df51ff295a810f5a237e.jar
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/scribe-c3425f7d401b7094c7393ac6f72d22d54a0737ef.jar
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/androidjhlabs-a90adecee438f2817c9dbabb8a3397481c78b74a.jar
+/Users/desy/Documents/Development/tumblrsnap-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-ebb477b43147fb05b4804a5a2b7fd860821227dc.jar
